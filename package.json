@@ -1,0 +1,27 @@
+{
+  "name": "maggiespawebsite",
+  "version": "1.0.0",
+  "description": "\"Website to store documents for St Margarets Parent's Association\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.9.2",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteySanchez/SimpleWebsite.git"
+  },
+  "author": "\"Peter McGeeney\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeteySanchez/SimpleWebsite/issues"
+  },
+  "homepage": "https://github.com/PeteySanchez/SimpleWebsite#readme"
+}
