@@ -15,8 +15,8 @@ app.get('/', function (req, res, next) {
   }
 })
 
-app.listen(process.env.PORT || 3000, function () {
-  console.log('Listening on http://localhost:' + (process.env.PORT || 3000))
+app.listen(process.env.PORT || 80, function () {
+  console.log('Listening on http://localhost:' + (process.env.PORT || 80))
 })
 
 //https://www.clock.co.uk/insight/a-simple-website-in-node-js-2016-edition
